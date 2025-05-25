@@ -3,10 +3,10 @@ This repository contains a simple example of how to build a logistic regression 
 
 ## Getting started
 
-To get started, open run the following command in your preferred terminal:
+To get started, run the following command in your preferred terminal:
 
 ```console
-foo@bar:~$ git clone https://github.com/EA-Mante/Logistic-Regression-Sonar-Data
+foo@bar:~$ git clone https://github.com/EA-Mante/Logistic-Regression-Sonar-Data.git
 ```
 
 This clones the repo to your computer
