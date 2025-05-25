@@ -1,5 +1,5 @@
 # Logistic-Regression-Sonar-Data
-This repository contains a simple example of how to build a logistic regression model, and the dataset used. The context of the problem is as follows: a submarine uses sonar to detect objects which can either be a rock (R) or a mine (M). The last column in the .csv file identifies the rows as either R or M.
+This repository contains a simple example of how to build a logistic regression model (the .ipynb file), and the dataset used (the .csv file). The context of the problem is as follows: a submarine uses sonar to detect objects which can either be a rock (R) or a mine (M). The last column in the .csv file identifies the rows as either R or M.
 
 ## Getting started
 
