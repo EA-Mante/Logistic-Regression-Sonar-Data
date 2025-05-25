@@ -1,11 +1,20 @@
 # Logistic-Regression-Sonar-Data
 This repository contains a simple example of how to build a logistic regression model, and the dataset used.
 
-## Usage
+## Getting started
 
-1. Clone or download this repository.
-2. Ensure `sonar_data.csv` is in the same folder as the notebook.
-3. Open the notebook and run all cells.
+To get started, open run the following command in your preferred terminal:
+
+```console
+foo@bar:~$ git clone https://github.com/EA-Mante/Logistic-Regression-Sonar-Data
+```
+
+This clones the repo to your computer
+
+To sucessfully run the downloaded notebook:
+
+1. Ensure `sonar_data.csv` is in the same folder as the notebook.
+2. Open the notebook and run all cells.
 
 ## Acknowledgments
 
