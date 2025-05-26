@@ -18,6 +18,6 @@ To sucessfully run the downloaded notebook:
 
 ## Acknowledgments
 
-This project was inspired by the tutorial: [Project 1 : SONAR Rock vs Mine Prediction with Python | End To End Python Machine Learning Project, Siddhardhan](https://www.youtube.com/watch?v=fiz1ORTBGpY)".
+This project was inspired by the tutorial: [Project 1 : SONAR Rock vs Mine Prediction with Python | End To End Python Machine Learning Project, Siddhardhan](https://www.youtube.com/watch?v=fiz1ORTBGpY).
 
 Code was typed and adapted by me for learning purposes.
